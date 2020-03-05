@@ -1,0 +1,13 @@
+C:\Users\shiga\source\repos\MQ1\MQ1\bin\Debug\netcoreapp3.1\MQ1.exe
+C:\Users\shiga\source\repos\MQ1\MQ1\obj\Debug\netcoreapp3.1\MQ1.csprojAssemblyReference.cache
+C:\Users\shiga\source\repos\MQ1\MQ1\obj\Debug\netcoreapp3.1\MQ1.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\MQ1\MQ1\obj\Debug\netcoreapp3.1\MQ1.AssemblyInfo.cs
+C:\Users\shiga\source\repos\MQ1\MQ1\bin\Debug\netcoreapp3.1\MQ1.deps.json
+C:\Users\shiga\source\repos\MQ1\MQ1\bin\Debug\netcoreapp3.1\MQ1.runtimeconfig.json
+C:\Users\shiga\source\repos\MQ1\MQ1\bin\Debug\netcoreapp3.1\MQ1.runtimeconfig.dev.json
+C:\Users\shiga\source\repos\MQ1\MQ1\bin\Debug\netcoreapp3.1\MQ1.dll
+C:\Users\shiga\source\repos\MQ1\MQ1\bin\Debug\netcoreapp3.1\MQ1.pdb
+C:\Users\shiga\source\repos\MQ1\MQ1\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\shiga\source\repos\MQ1\MQ1\obj\Debug\netcoreapp3.1\MQ1.csproj.CopyComplete
+C:\Users\shiga\source\repos\MQ1\MQ1\obj\Debug\netcoreapp3.1\MQ1.dll
+C:\Users\shiga\source\repos\MQ1\MQ1\obj\Debug\netcoreapp3.1\MQ1.pdb

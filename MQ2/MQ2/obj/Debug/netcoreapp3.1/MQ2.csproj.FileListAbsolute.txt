@@ -1,0 +1,12 @@
+C:\Users\shiga\source\repos\MQ2\MQ2\bin\Debug\netcoreapp3.1\MQ2.exe
+C:\Users\shiga\source\repos\MQ2\MQ2\obj\Debug\netcoreapp3.1\MQ2.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\MQ2\MQ2\obj\Debug\netcoreapp3.1\MQ2.AssemblyInfo.cs
+C:\Users\shiga\source\repos\MQ2\MQ2\bin\Debug\netcoreapp3.1\MQ2.deps.json
+C:\Users\shiga\source\repos\MQ2\MQ2\bin\Debug\netcoreapp3.1\MQ2.runtimeconfig.json
+C:\Users\shiga\source\repos\MQ2\MQ2\bin\Debug\netcoreapp3.1\MQ2.runtimeconfig.dev.json
+C:\Users\shiga\source\repos\MQ2\MQ2\bin\Debug\netcoreapp3.1\MQ2.dll
+C:\Users\shiga\source\repos\MQ2\MQ2\bin\Debug\netcoreapp3.1\MQ2.pdb
+C:\Users\shiga\source\repos\MQ2\MQ2\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\shiga\source\repos\MQ2\MQ2\obj\Debug\netcoreapp3.1\MQ2.csproj.CopyComplete
+C:\Users\shiga\source\repos\MQ2\MQ2\obj\Debug\netcoreapp3.1\MQ2.dll
+C:\Users\shiga\source\repos\MQ2\MQ2\obj\Debug\netcoreapp3.1\MQ2.pdb
